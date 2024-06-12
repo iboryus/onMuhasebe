@@ -1,0 +1,10 @@
+C:\Users\İbrahim\Source\Repos\OnMuhasebe\OnMuhasebe\obj\Debug\OnMuhasebe.csproj.AssemblyReference.cache
+C:\Users\İbrahim\Source\Repos\OnMuhasebe\OnMuhasebe\obj\Debug\OnMuhasebe.Form1.resources
+C:\Users\İbrahim\Source\Repos\OnMuhasebe\OnMuhasebe\obj\Debug\OnMuhasebe.Properties.Resources.resources
+C:\Users\İbrahim\Source\Repos\OnMuhasebe\OnMuhasebe\obj\Debug\OnMuhasebe.csproj.GenerateResource.cache
+C:\Users\İbrahim\Source\Repos\OnMuhasebe\OnMuhasebe\obj\Debug\OnMuhasebe.csproj.CoreCompileInputs.cache
+C:\Users\İbrahim\Source\Repos\OnMuhasebe\OnMuhasebe\bin\Debug\OnMuhasebe.exe.config
+C:\Users\İbrahim\Source\Repos\OnMuhasebe\OnMuhasebe\bin\Debug\OnMuhasebe.exe
+C:\Users\İbrahim\Source\Repos\OnMuhasebe\OnMuhasebe\bin\Debug\OnMuhasebe.pdb
+C:\Users\İbrahim\Source\Repos\OnMuhasebe\OnMuhasebe\obj\Debug\OnMuhasebe.exe
+C:\Users\İbrahim\Source\Repos\OnMuhasebe\OnMuhasebe\obj\Debug\OnMuhasebe.pdb
