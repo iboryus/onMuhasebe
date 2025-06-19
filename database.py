@@ -4,7 +4,7 @@ def connect_db():
     conn = sqlite3.connect('muhasebe.db')
     return conn
 
-def create_table():
+def create_tables():
     conn = connect_db()
     cursor = conn.cursor()
 
